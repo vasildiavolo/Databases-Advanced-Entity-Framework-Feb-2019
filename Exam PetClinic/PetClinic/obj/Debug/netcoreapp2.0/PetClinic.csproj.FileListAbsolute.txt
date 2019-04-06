@@ -1,0 +1,11 @@
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+C:\Users\Vasil Evlogiev\source\repos\Exam PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb
