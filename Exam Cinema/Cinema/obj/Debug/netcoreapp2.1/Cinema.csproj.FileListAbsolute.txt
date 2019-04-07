@@ -1,0 +1,11 @@
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+C:\Users\Vasil Evlogiev\source\repos\Exam Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
